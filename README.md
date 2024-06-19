@@ -1,4 +1,4 @@
-echo "# Fortune Teller Task
+## Fortune Teller Task
 
 ## Description
 This coding task is about using various prompt methods to take input of values from a user and then printing it to the user making sure certain values are converted with the relevant methods. The reason this code is important to learn is that you will be able to utilise certain functions of Javascripts and use it in real world scenarios.
