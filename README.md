@@ -13,7 +13,7 @@ This coding task is about using various prompt methods to take input of values f
 No installation is needed for this task. It requires using a web browser to run this script via running the provided HTML file.
 
 ## Usage
-
+Firstly make sure the attached files are in the correct directory/folder. Then run the attachted HTML file called "prompt" in a browser from the folder. Then proceed to answer the following prompts that will come up. After going through the last prompt, open up the broswer development tools (please research online on how to do that for the chosen broswer if your not sure.) Then you will be shown message which predicts your future but this is obviously for entertainment purposes. I've also attached screenshots on this program so you can see an example on how to use this program.
 
 ## Credits
 - (https://github.com/Amin232001)
